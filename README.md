@@ -2,7 +2,7 @@
 
 ## 🖼 Podgląd bazy danych
 
-![Diagram relacji](diagram.png)
+![Diagram relacji](diagram-v2.png)
 
 Powyżej: struktura relacyjna bazy danych – filmy, reżyserzy i oceny.
 
